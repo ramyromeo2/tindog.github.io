@@ -1,0 +1,184 @@
+body{
+ font-family: "Montserrat" !important;
+ /* margin-top: 100px !important; */
+}
+#title{
+background-color: #ff4c68;
+}
+/* .navbar-brand{
+ margin: 50px;
+ margin-top: 100px !important;
+}
+.navbar{
+ top: 0;
+ left: 0;
+ right: 0;
+ height: 100px;
+ background-color: #ff4c68;
+ position: fixed !important;
+ z-index: 2;
+}
+.nav-link{
+margin-top: 60px;
+} */
+
+.hed{
+ font-family: "Montserrat";
+ font-size: 3.5rem !important;
+ color: white;
+ line-height: 1.5;
+font-weight: bolder;
+}
+.tindog{ 
+ font-family: "Ubuntu" !important;
+ font-size: 2.5rem !important;
+ font-weight: bold;
+}
+.nav-item{
+ padding: 0 18px !important;
+ font-size: 1.2rem !important; 
+}
+.nav-link{
+ font-family: "Montserrat" !important;
+}
+.container-fluid{
+ position: relative;
+ margin: auto;
+ padding: 3% 15% 7% !important;
+ overflow: hidden;
+}
+.sexy-dog{ 
+width: 60%;
+ transform: rotate(25deg);
+ position: absolute;
+ right: 30px !important;
+}
+.navbar{
+padding: 0 0 4.5rem !important;
+}
+.rr{
+ margin: 0 !important;
+}
+
+.btn{
+margin: 5% 3% 5% 0;
+}
+
+.immg{
+position: relative;
+}
+.center{
+/* margin: 5% 0 !important; */
+ text-align: center !important;
+}
+.icon{
+margin-bottom: 1rem;
+ color: #ef8172 !important;
+}
+.icon-hed{
+ font-size: 1.5rem;
+ font-weight: bold;
+ font-family: "Montserrat" !important;
+}
+.icon:hover{
+color: #ff4c68 !important;
+}
+#features{
+ background-color: rgb(244, 245, 247);
+  padding: 7% 15%;
+}
+.space{
+ text-align: center !important;
+ padding: 5% !important;
+}
+p{
+ color: #8f8f8f;
+}
+#testimonials{
+
+ text-align: center;
+ background-color:#ef8172;
+}
+.testimonial-text{
+ font-family: "Montserrat";
+ font-weight: bold !important;
+ font-size: 3rem !important;
+line-height: 1.5;
+ color: white !important;
+}
+.dog-img{
+ width: 10%;
+ border-radius: 100%;
+ margin: 20px;
+}
+em{
+ color: white;
+}
+
+#press{  
+ text-align: center !important;
+ padding-bottom: 5%;
+ background-color: #ef8172;
+}
+
+.press-logo{
+ width: 15%;
+ margin: 20px 20px 50px;
+}
+.carousel-item{
+ padding: 7% 15%;
+}
+
+
+.card{
+ text-align: center;
+}
+
+#pricing{
+ text-align: center;
+ padding: 100px;
+}
+.pricing-container{
+ padding: 3% 2%;
+}
+.header{
+ font-size: 2.5rem;
+ font-weight: bold;
+}
+
+
+
+#cta{
+ background-color: #ff4c68;
+ text-align: center;
+}
+
+
+
+
+#footer{
+ /* padding-top: 3%; */
+ text-align: center;
+}
+
+
+.social-media{
+margin: 25px 10px ;
+}
+
+@media screen and (max-width:1027px) {
+ .sexy-dog{
+  position: static !important;
+
+ }
+ #title{
+  text-align: center;
+ }
+ .hed{
+  font-size: 2.5rem !important;
+ 
+ }
+ .testimonial-text{
+  font-size: 1.5rem !important;
+ }
+}
